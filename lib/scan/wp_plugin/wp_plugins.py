@@ -11681,4 +11681,4 @@ def wp_plugins():
             "ztranslate", "zune-card", "zune-stats", "zupot-atendimento-online-e-helpdesk-para-websites",
             "zuppler-online-ordering", "zurahotlinks", "zurb-foundation-5-clearing-gallery",
             "zwiveldirect-website-widget", "zwoom-woocommerce-product-image-zoom-extension-by-wisdmlabs",
-            "zws-wp-comments-anti-spam-hyperlink-blocker", "zxcvbn", "zyx-classical-circular-clock"]
+            "zws-wp-comments-anti-spam-hyperlink-blocker", "zxcvbn", "zyx-classical-circular-clock", "the-plus-addons-for-elementor-page-builder"]
